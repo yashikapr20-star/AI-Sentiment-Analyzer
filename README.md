@@ -19,5 +19,6 @@ This project analyzes the sentiment of user-entered text using Natural Language 
 ## How to Run
 1. Install TextBlob
 2. Run sentiment.py
-3. Enter a sentence
-4. View sentiment results
+3. Open http://localhost:8501 in your browser.
+4. Enter text and click 
+5. View sentiment results
