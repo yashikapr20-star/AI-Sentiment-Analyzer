@@ -18,7 +18,8 @@ This project analyzes the sentiment of user-entered text using Natural Language 
 
 ## How to Run
 1. Install TextBlob
-2. Run sentiment.py
-3. Open http://localhost:8501 in your browser.
+2. py -m pip install textblob streamlit
+3. Run the application:
+   py -m streamlit run add.p
 4. Enter text and click 
 5. View sentiment results
